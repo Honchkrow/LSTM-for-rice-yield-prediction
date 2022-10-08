@@ -1,3 +1,5 @@
+# 一个非常不错的农业相关DL项目，注意numpy需要小于1.18.0
+
 感谢您的阅读！
 
 本项目是参加比赛：https://tianchi.aliyun.com/competition/entrance/231753/introduction
